@@ -4,4 +4,4 @@ A one page site serving as a store front for a Brooklyn based stationary company
 #Screen Recording
 
 
-[![Astral Paper]https://github.com/MillyCodes/Astral-Paper-Supply/images/astral-screenrecording.mov)](https://github.com/MillyCodes/Astral-Paper-Supply/images/astral-screenrecording.mov "Astral Paper")
+[![Astral Paper]https://github.com/MillyCodes/Astral-Paper-Supply/images/astral-screenrecording.mov)]
